@@ -1,0 +1,5 @@
+{
+  "dotnet.defaultSolution": "AdventOfCode2025.sln",
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.showSnippets": true
+}
