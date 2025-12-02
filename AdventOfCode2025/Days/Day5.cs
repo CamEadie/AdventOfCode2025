@@ -8,13 +8,13 @@ public class Day5 : IDay
     {
         var sum = 1;
 
-        return $"{sum}";
+        return sum.ToString();
     }
 
     public string Part2(string[] input)
     {
         var sum = 2;
 
-        return $"{sum}";
+        return sum.ToString();
     }
 }
