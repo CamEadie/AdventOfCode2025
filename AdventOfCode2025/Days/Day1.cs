@@ -27,7 +27,7 @@ public class Day1 : IDay
             }
         }
 
-        return zeros.ToString(); // E: 3, A: 1081
+        return zeros.ToString();
     }
 
     public string Part2(string[] input)
@@ -48,6 +48,6 @@ public class Day1 : IDay
             dial = (mod + Order) % Order;
         }
 
-        return zeros.ToString(); // E: 6, A: 6689
+        return zeros.ToString();
     }
 }
