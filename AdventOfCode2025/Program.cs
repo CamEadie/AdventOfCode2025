@@ -4,7 +4,7 @@ using AdventOfCode2025.Days.Parsing;
 var dayOption = new Option<int>("--day")
 {
     Description = "The day of Advent of Code 2025 to run.",
-    DefaultValueFactory = _ => 4,
+    DefaultValueFactory = _ => 5,
 };
 
 var allOption = new Option<bool>("--all")
